@@ -1,1 +1,1 @@
-# proekt
+# https://dmytriink.github.io/proekt/
